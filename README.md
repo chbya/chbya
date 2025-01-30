@@ -3,26 +3,20 @@
 </a>
 
 ```plaintext
-┌──(wanderer_@github)-[~]
-└─$ echo "Welcome, wanderer_"
+> echo "Welcome, wanderer_"
 
-┌──(wanderer_@github)-[~]
-└─$ whoami
+> whoami
 Mechatronics Technician | Developer | Anime Enthusiast
 
-┌──(wanderer_@github)-[~]
-└─$ ls ~/projects
+> ls ~/projects
 minecraft-plugins  automation-scripts
 
-┌──(wanderer_@github)-[~]
-└─$ skills
+> skills
 Java | PHP | Python | Spigot | Optimization | Debugging
 
-┌──(wanderer_@github)-[~]
-└─$ contact
-GitHub   : [https://github.com/chbya](https://github.com/chbya)
-Email    : [leonahmad2412@gmail.com](mailto:leonahmad2412@gmail.com)
-Discord  : [leon.ah](https://discord.com/users/leon.ah)
+> contact
+GitHub   : [REDACTED]
+Email    : [REDACTED]
+Discord  : [REDACTED]
 
-┌──(wanderer_@github)-[~]
-└─$ exit
+> exit
