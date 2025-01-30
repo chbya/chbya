@@ -18,9 +18,9 @@
 💻 Java | 🐘 PHP | 🐍 Python | 🎮 Spigot | ⚙️ Optimization | 🐛 Debugging
 
 > contact
-📂 GitHub   : [chbya](https://github.com/chbya)
-📧 Email    : [leonahmad2412@gmail.com](mailto:leonahmad2412@gmail.com)
-🎮 Discord  : [leon.ah](https://discord.com/users/leon.ah)
+📂 GitHub   : [REDACTED]
+📧 Email    : [REDACTED]
+🎮 Discord  : [REDACTED]
 
 > exit
 
