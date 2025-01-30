@@ -3,20 +3,26 @@
 </a>
 
 ```bash
-> echo "Welcome, wanderer_"
+┌──(wanderer_@github)-[~]
+└─$ echo "Welcome, wanderer_"
 
-> whoami
+┌──(wanderer_@github)-[~]
+└─$ whoami
 Mechatronics Technician | Developer | Anime Enthusiast
 
-> ls ~/projects
+┌──(wanderer_@github)-[~]
+└─$ ls ~/projects
 minecraft-plugins  automation-scripts
 
-> skills
+┌──(wanderer_@github)-[~]
+└─$ skills
 Java | PHP | Python | Spigot | Optimization | Debugging
 
-> contact
-GitHub   : <a href="https://github.com/chbya">chbya</a>
-Email    : <a href="mailto:leonahmad2412@gmail.com">leonahmad2412@gmail.com</a>
-Discord  : <a href="https://discord.com/users/leon.ah">leon.ah</a>
+┌──(wanderer_@github)-[~]
+└─$ contact
+GitHub   : [REDACTED]
+Email    : [REDACTED]
+Discord  : [REDACTED]
 
-> exit
+┌──(wanderer_@github)-[~]
+└─$ exit
