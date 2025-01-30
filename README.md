@@ -24,9 +24,9 @@
 
 > exit
 ```
-
+```bash
 📁 **Contact Me** 📁
-
+```
 | **Platform** | **Link**                              |
 |--------------|---------------------------------------|
 | 🌸 GitHub    | [chbya](https://github.com/chbya)     |
