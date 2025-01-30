@@ -7,15 +7,15 @@
 > echo "Welcome, wanderer_"
 
 > whoami
-🎮 Mechatronics Technician | 💻 Developer | 🌸 Anime Enthusiast
+👨‍💻 Mechatronics Technician | 🎯 Developer | 🌸 Anime Fan
 
 > ls ~/projects
 🛠️ minecraft-plugins  🤖 automation-scripts
 
-> skills
-💻 Java | 🐘 PHP | 🐍 Python | 🎮 Spigot | ⚙️ Optimization | 🐛 Debugging
+> ls ~/skills
+☕ Java  🐘 PHP  🐍 Python  🎮 Spigot  ⚙️ Optimization  🐛 Debugging
 
-> contact
+> ls ~/contact
 📂 GitHub   : [REDACTED]
 📧 Email    : [REDACTED]
 🎮 Discord  : [REDACTED]
