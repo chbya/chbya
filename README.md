@@ -23,3 +23,8 @@
 🎮 Discord  : [leon.ah](https://discord.com/users/leon.ah)
 
 > exit
+
+### Contact Links:
+- **[GitHub](https://github.com/chbya)**  
+- **[Email](mailto:leonahmad2412@gmail.com)**  
+- **[Discord](https://discord.com/users/leon.ah)**  
