@@ -5,16 +5,21 @@
 ```bash
 🌸 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲! 🌸
 > echo "Welcome, wanderer_"
+
 > whoami
 🎮 Mechatronics Technician | 💻 Developer | 🌸 Anime Enthusiast
+
 > ls ~/projects
 🛠️ minecraft-plugins  🤖 automation-scripts
+
 > skills
 💻 Java | 🐘 PHP | 🐍 Python | 🎮 Spigot | ⚙️ Optimization | 🐛 Debugging
+
 > contact
 📂 GitHub   : [REDACTED]
 📧 Email    : [REDACTED]
 🎮 Discord  : [REDACTED]
+
 > exit
 ```
 
