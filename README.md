@@ -24,4 +24,4 @@
 ```
 [![](https://img.shields.io/badge/-github-6E40C9)](https://github.com/chbya)
 [![](https://img.shields.io/badge/-message-E91E63)](mailto:leonahmad2412@gmail.com)
-[![](https://img.shields.io/badge/-discord-5865F2)](https://discord.com/users/leon.ah)
+[![](https://img.shields.io/badge/-discord-5865F2)](https://discord.gg/G46xJrhP7Y)
