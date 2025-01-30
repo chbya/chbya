@@ -15,7 +15,7 @@ Mechatronics Technician | Developer | Anime Enthusiast
 - Java | PHP | Python | Spigot | Optimization | Debugging
 
 > contact --show
-GitHub: https://github.com/YourGitHubProfile
+GitHub: https://github.com/chbya [chbya](https://github.com/chbya)
 Email: mailto:your.email@example.com
 Discord: https://discord.com/users/123456789
 
