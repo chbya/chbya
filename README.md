@@ -5,20 +5,20 @@
 ```plaintext
 🌸 ようこそ！ Welcome to my GitHub profile! 🌸
 
-> echo "Welcome, wanderer_"
+🔴> echo "Welcome, wanderer_"
 
-> whoami
+🔴> whoami
 🎮 メカトロニクス技術者 | 💻 開発者 | 🌸 アニメ好き
 
-> ls ~/projects
+🔴> ls ~/projects
 🛠️ minecraft-plugins  🤖 automation-scripts
 
-> skills
+🔴> skills
 💻 Java | 🐘 PHP | 🐍 Python | 🎮 Spigot | ⚙️ 最適化 | 🐛 デバッグ
 
-> contact
+🔴> contact
 📂 GitHub   : [REDACTED]
 📧 Email    : [REDACTED]
 🎮 Discord  : [REDACTED]
 
-> exit
+🔴> exit
