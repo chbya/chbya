@@ -6,13 +6,13 @@
 > echo "Welcome, wanderer_"
 
 > whoami
-👨‍💻 Mechatronics Technician | 🎯 Developer | 🌸 Anime Fan
+👨‍💻 Mechatronics Technician | 🎯 Developer
 
 > ls ~/projects
 🛠️ minecraft-plugins  🤖 automation-scripts
 
 > ls ~/skills
-☕ Java  🐘 PHP  🐍 Python  🎮 Spigot  ⚙️ Optimization  🐛 Debugging
+☕ Java  🐘 PHP  🐍 Python
 
 > ls ~/contact
 📂 GitHub   : [REDACTED]
