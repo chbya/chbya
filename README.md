@@ -3,23 +3,22 @@
 </a>
 
 ```shell
-██████████████████████████████████████
-█> echo "Welcome, wanderer_"         █
-██████████████████████████████████████
+> echo "Welcome, wanderer_"
 
-█> whoami
-█ Mechatronics Technician | Developer | Anime Enthusiast
+> whoami
+Mechatronics Technician | Developer | Anime Enthusiast
 
-█> ls ~/projects
-█ - Minecraft Plugins | Automation & Scripting
+> ls ~/projects
+- Minecraft Plugins | Automation & Scripting
 
-█> skills --list
-█ - Java | PHP | Python | Spigot | Optimization | Debugging
+> skills --list
+- Java | PHP | Python | Spigot | Optimization | Debugging
 
-█> contact --show
-█ GitHub: [YourGitHubProfile](https://github.com/YourGitHubProfile)
-█ Email: [your.email@example.com](mailto:your.email@example.com)
-█ Discord: [YourUsername](https://discord.com/users/123456789)
+> contact --show
+GitHub: [YourGitHubProfile](https://github.com/YourGitHubProfile)
+Email: [your.email@example.com](mailto:your.email@example.com)
+Discord: [YourUsername](https://discord.com/users/123456789)
 
-█> exit
-█ Session terminated.
+> exit
+Session terminated.
+```
