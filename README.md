@@ -24,7 +24,10 @@
 
 > exit
 ```
-### Contact Links:
-- **[GitHub](https://github.com/chbya)**  
-- **[Email](mailto:leonahmad2412@gmail.com)**  
-- **[Discord](https://discord.com/users/leon.ah)**  
+📁 **Contact Me** 📁
+```bash
+┌───────────────────────────────────────────────┐
+│ 🌸 GitHub   : [chbya](https://github.com/chbya)  │
+│ 📧 Email    : [leonahmad2412@gmail.com](mailto:leonahmad2412@gmail.com) │
+│ 🎮 Discord  : [leon.ah](https://discord.com/users/leon.ah) │
+└───────────────────────────────────────────────┘
