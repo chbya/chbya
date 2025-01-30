@@ -15,9 +15,9 @@
 ☕ Java  🐘 PHP  🐍 Python  🎮 Spigot  ⚙️ Optimization  🐛 Debugging
 
 > ls ~/contact
-📂 GitHub   : chbya
-📧 Email    : leonahmad2412@gmail.com
-🎮 Discord  : leon.ah
+📂 GitHub   : [REDACTED]
+📧 Email    : [REDACTED]
+🎮 Discord  : [REDACTED]
 
 > exit
 ```
