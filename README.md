@@ -23,7 +23,7 @@
 🎮 Discord  : [REDACTED]
 
 > exit
-
+```
 ### Contact Links:
 - **[GitHub](https://github.com/chbya)**  
 - **[Email](mailto:leonahmad2412@gmail.com)**  
