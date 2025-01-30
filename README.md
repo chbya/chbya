@@ -10,12 +10,12 @@ Mechatronics Technician | Developer | Anime Enthusiast
 - Minecraft Plugins | Automation & Scripting
 
 > skills --list
-- Java | PHP | Python | PocketMine-MP | Spigot | Optimization | Debugging
+- Java | PHP | Python | Spigot | Optimization | Debugging
 
 > contact --show
-GitHub: https://github.com/YourGitHubProfile
-Email: your.email@example.com
-Discord: YourUsername#1234
+GitHub: https://github.com/chbya
+Email: leonahmad2412@gmail.com
+Discord: leon.ah
 
 > exit
 Session terminated.
