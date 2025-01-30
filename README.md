@@ -15,9 +15,9 @@ Mechatronics Technician | Developer | Anime Enthusiast
 - Java | PHP | Python | Spigot | Optimization | Debugging
 
 > contact --show
-GitHub: https://github.com/YourGitHubProfile
-Email: mailto:your.email@example.com
-Discord: https://discord.com/users/123456789
+GitHub: https://github.com/chbya
+Email: leonahmad2412@gmail.com
+Discord: leon.ah
 
 > exit
 Session terminated.
