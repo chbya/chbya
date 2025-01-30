@@ -15,8 +15,8 @@ minecraft-plugins  automation-scripts
 Java | PHP | Python | Spigot | Optimization | Debugging
 
 > contact
-GitHub   : chbya
-Email    : leonahmad2412@gmail.com
-Discord  : leon.ah
+GitHub   : <a href="https://github.com/chbya">chbya</a>
+Email    : <a href="mailto:leonahmad2412@gmail.com">leonahmad2412@gmail.com</a>
+Discord  : <a href="https://discord.com/users/leon.ah">leon.ah</a>
 
 > exit
