@@ -2,18 +2,8 @@
 </a>
 
 ```bash
-🌸 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲! 🌸
+𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲!
 > echo "Welcome, wanderer_"
-
-> whoami
-👨‍💻 Mechanic | 🎯 Developer
-
-> ls ~/projects
-🛠️ minecraft-plugins  🤖 web-development
-
-> ls ~/skills
-☕ Java  🐘 PHP  🐍 Python
-📒 HTML  ☀️ JS   🖼️ CSS
 
 > ls ~/contact
 📂 GitHub   : [REDACTED]
